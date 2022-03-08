@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">My Messenger</string>
+  <string name="login_email_hint">Email</string>
+  <string name="login_password_hint">Password</string>
+  <string name="login_logo_description">logo</string>
+  <string name="login_button_text">Log In</string>
+  <string name="sign_up_button_text">Sign Up</string>
+  <string name="login_username_hint">Username</string>
+  <string name="log_out">Log out</string>
+  <string name="chat_message_box_hint">Type a message</string>
+</resources>

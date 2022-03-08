@@ -1,0 +1,10 @@
+<resources>
+
+  <style name="Theme.MyMessenger" parent="Theme.AppCompat.DayNight">
+    <item name="colorPrimary">@color/pink</item>
+    <item name="colorOnPrimary">@color/gray</item>
+    <item name="colorSecondary">@color/purple</item>
+    <item name="colorOnSecondary">@color/gray</item>
+    <item name="colorAccent">@color/pink</item>
+  </style>
+</resources>
